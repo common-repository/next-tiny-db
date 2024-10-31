@@ -1,0 +1,836 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Next Tiny DB\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-11-25 20:09+0100\n"
+"PO-Revision-Date: 2022-11-25 20:10+0100\n"
+"Last-Translator: \n"
+"Language-Team: Français\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.2\n"
+"X-Loco-Version: 2.6.1; wp-5.9.3\n"
+"X-Domain: trans_next_watermark\n"
+"X-Poedit-Basepath: ../includes\n"
+"X-Poedit-KeywordsList: _e;__;esc_html_e;esc_html__\n"
+"X-Poedit-SearchPath-0: ntdb-acp-page.php\n"
+"X-Poedit-SearchPath-1: ntdb-functions.php\n"
+
+#: ntdb-acp-page.php:73
+msgid "No database found! Please, first select or upload a CSV data file..."
+msgstr "Aucune base de donnée trouvée! Sélectionner ou téléverser d'abord un fichier de données au format CSV..."
+
+#: ntdb-acp-page.php:92 ntdb-functions.php:146
+msgid "Databases"
+msgstr "Bases de données"
+
+#: ntdb-acp-page.php:93 ntdb-functions.php:147
+msgid "Settings"
+msgstr "Réglages généraux"
+
+#: ntdb-acp-page.php:94 ntdb-functions.php:148
+msgid "Help"
+msgstr "Aide"
+
+#: ntdb-acp-page.php:104
+msgid "Data file"
+msgstr "Fichier de données"
+
+#: ntdb-acp-page.php:109
+msgid "My data have headers"
+msgstr "Mes données ont des en-têtes"
+
+#: ntdb-acp-page.php:110
+msgid "Check if first line of your data file is done from the header titles of your columns"
+msgstr "Cocher si la première ligne de votre fichier de données comporte le titre des colonnes"
+
+#: ntdb-acp-page.php:115
+msgid "Fields separator"
+msgstr "Séparateur de champs"
+
+#: ntdb-acp-page.php:116
+msgid "Semicolon"
+msgstr "Point virgule"
+
+#: ntdb-acp-page.php:117
+msgid "Comma"
+msgstr "Virgule"
+
+#: ntdb-acp-page.php:118
+msgid "Select what is the fields separator used in your data file"
+msgstr "Choisir le séparateur de champs utilisé dans le fichier de données"
+
+#: ntdb-acp-page.php:122 ntdb-functions.php:405
+msgid "Search"
+msgstr "Rechercher"
+
+#: ntdb-acp-page.php:127
+msgid "Search field"
+msgstr "Champ de recherche"
+
+#: ntdb-acp-page.php:128
+msgid "Text box"
+msgstr "Champ texte"
+
+#: ntdb-acp-page.php:129
+msgid "List box"
+msgstr "Liste déroulante"
+
+#: ntdb-acp-page.php:130
+msgid "Select how the search value is entered"
+msgstr "Choisir comment la valeur de recherche est entrée"
+
+#: ntdb-acp-page.php:135
+msgid "Search condition"
+msgstr "Condition de recherche"
+
+#: ntdb-acp-page.php:136
+msgid "Check if search value could be part of the key, and not only the exact key"
+msgstr "Cocher si le mot à rechercher peut être une partie de la clé, et non exactement la clé"
+
+#: ntdb-acp-page.php:137
+msgid "First record found will be displayed."
+msgstr "Le premier enregistrement trouvé sera affiché."
+
+#: ntdb-acp-page.php:142
+msgid "Match case"
+msgstr "Respecter la casse"
+
+#: ntdb-acp-page.php:143
+msgid "Check if search is case sensitive"
+msgstr "Cocher pour une recherche sensible aux min/MAJ"
+
+#: ntdb-acp-page.php:147
+msgid "Fields"
+msgstr "Champs"
+
+#: ntdb-acp-page.php:152
+msgid "Display headers"
+msgstr "Afficher les en-têtes"
+
+#: ntdb-acp-page.php:153
+msgid "Check to show titles of the columns"
+msgstr "Cocher pour afficher les en-têtes des colonnes"
+
+#: ntdb-acp-page.php:158
+msgid "Line space"
+msgstr "Saut de ligne"
+
+#: ntdb-acp-page.php:159
+msgid "Check to leave a line space between parts"
+msgstr "Cocher pour laisser une ligne vide entre les parties"
+
+#: ntdb-acp-page.php:163
+msgid "Style"
+msgstr "Style"
+
+#: ntdb-acp-page.php:173
+msgid "Bold"
+msgstr "Gras"
+
+#: ntdb-acp-page.php:176
+msgid "Italic"
+msgstr "Italique"
+
+#: ntdb-acp-page.php:179
+msgid "Hidden"
+msgstr "Caché"
+
+#: ntdb-acp-page.php:187
+msgid "Image"
+msgstr "Image"
+
+#: ntdb-acp-page.php:192
+msgid "Image position"
+msgstr "Position de l'image"
+
+#: ntdb-acp-page.php:193
+msgid "Better for vertical images"
+msgstr "Conseillé pour les images verticales"
+
+#: ntdb-acp-page.php:194
+msgid "Left"
+msgstr "A gauche"
+
+#: ntdb-acp-page.php:195
+msgid "Right"
+msgstr "A droite"
+
+#: ntdb-acp-page.php:196
+msgid "Better for horizontal images"
+msgstr "Conseillé pour les images horizontales"
+
+#: ntdb-acp-page.php:197
+msgid "Top"
+msgstr "En haut"
+
+#: ntdb-acp-page.php:198
+msgid "Bottom"
+msgstr "En bas"
+
+#: ntdb-acp-page.php:204
+msgid "Image width"
+msgstr "Largeur de l'image"
+
+#: ntdb-acp-page.php:206
+msgid "Select the width of the image beetween 25% to 75% of the page"
+msgstr "Choisir la largeur de l'image entre 25% et 75% de la page"
+
+#: ntdb-acp-page.php:210
+msgid "SEO"
+msgstr "SEO"
+
+#: ntdb-acp-page.php:214
+msgid "Internal links"
+msgstr "Liens internes"
+
+#: ntdb-acp-page.php:221
+msgid "linked to page slug"
+msgstr "lié à la page de slug"
+
+#: ntdb-acp-page.php:226
+msgid "Left empty if not used"
+msgstr "Laisser vide si non utilisé"
+
+#: ntdb-acp-page.php:232
+msgid "Open in a new page"
+msgstr "Ouvrir dans une nouvelle page"
+
+#: ntdb-acp-page.php:237 ntdb-acp-page.php:315
+msgid "Save"
+msgstr "Enregistrer"
+
+#: ntdb-acp-page.php:246
+msgid "Database"
+msgstr "Base de données"
+
+#: ntdb-acp-page.php:263
+msgid "CSV data file not found!"
+msgstr "Fichier de données absent!"
+
+#: ntdb-acp-page.php:279
+msgid "Data file URL"
+msgstr "URL du fichier de données"
+
+#: ntdb-acp-page.php:285
+msgid "Data file path"
+msgstr "Chemin du fichier de données"
+
+#: ntdb-acp-page.php:296
+msgid "New tiny DB"
+msgstr "Nouvelle base de données"
+
+#: ntdb-acp-page.php:302
+msgid "Change CSV data file"
+msgstr "Changer le fichier CSV"
+
+#: ntdb-acp-page.php:302 ntdb-acp-page.php:308
+msgid "Press Save button to save changes."
+msgstr "Presser le bouton Enregistrer pour garder les changements."
+
+#: ntdb-acp-page.php:308
+msgid "Upload CSV data file"
+msgstr "Téléverser le fichier de données"
+
+#: ntdb-acp-page.php:322
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: ntdb-acp-page.php:326
+msgid "Example"
+msgstr "Exemple"
+
+#: ntdb-acp-page.php:328
+msgid "Insert the shortcode into a widget or a page to display the search form then the results"
+msgstr "Insérer le shortcode dans un widget ou une page pour afficher le formulaire de recherche puis les résultats"
+
+#: ntdb-acp-page.php:332
+msgid "Parameters"
+msgstr "Paramètres"
+
+#: ntdb-acp-page.php:334
+msgid "CSV filename (with or without the .csv extension)"
+msgstr "Nom du fichier de données (avec ou sans l'extension .csv)"
+
+#: ntdb-acp-page.php:335 ntdb-acp-page.php:338 ntdb-acp-page.php:342 ntdb-acp-page.php:346 ntdb-acp-page.php:350 ntdb-acp-page.php:354
+msgid "For example: "
+msgstr "Par exemple: "
+
+#: ntdb-acp-page.php:337
+msgid "Title of database to be displayed on top of the search field on the web page"
+msgstr "Titre de la base de données à afficher au dessus du formulaire de recherche de la page web"
+
+#: ntdb-acp-page.php:341
+msgid "Header or Number (starting to 1) of the column in which the key will be searched"
+msgstr "En-têtes ou Numéro (Commençant à 1) de la colonne dans laquelle la clé est cherchée"
+
+#: ntdb-acp-page.php:342
+msgid "to propose a list of colors as the search field"
+msgstr "pour proposer une liste de couleurs comme champ de recherche"
+
+#: ntdb-acp-page.php:345
+msgid "Set to \"yes\" or \"no\", \"true\" or \"false\", \"1\" or \"0\" to display (defult value) or hide the search form on top of results"
+msgstr ""
+"Mis à \"yes\" ou \"no\", \"true\" ou \"false\", \"1\" ou \"0\" pour afficher (choix par défaut) ou cacher le formulaire de recherche au dessus des "
+"résultats"
+
+#: ntdb-acp-page.php:349
+msgid "Set to \"yes\" or \"no\", \"true\" or \"false\", \"1\" or \"0\" to display the results in a table or a vertical view"
+msgstr "Mis à \"yes\" ou \"no\", \"true\" ou \"false\", \"1\" ou \"0\" pour afficher les résultats dans un tableau ou une fiche verticale"
+
+#: ntdb-acp-page.php:353
+msgid "Max number of results displayed on the page (default is 30)"
+msgstr "Nombre maximum de résultats affichés sur la page (30 par défaut)"
+
+#: ntdb-acp-page.php:358
+msgid "Usage"
+msgstr "Usage"
+
+#: ntdb-acp-page.php:360
+msgid "You can have several pages with different shortcodes using the same database for different results according to the searched column."
+msgstr ""
+"Vous pouvez avoir plusieurs pages avec différent shortcodes utilisant la même base de donnés affichant divers résultats selon la colonne cherchée."
+
+#: ntdb-acp-page.php:361
+msgid ""
+"For example you may have choose through the plugin to display single result with a primary key (unique identification number of a car) in a view on "
+"a page A."
+msgstr ""
+"Par exemple vous pouvez choisir dans le plugin d'afficher le résultat unique d'une clé primaire (Nº d'immatriculation d'une voiture) dans une fiche "
+"sur la page A."
+
+#: ntdb-acp-page.php:362
+msgid ""
+"Then on page B you can display several results searching with a secondary key (color of the cars) in a table with the table_results parameter set "
+"to \"Yes\" in the shortcode."
+msgstr ""
+"Puis sur la page B vous pouvez afficher plusieurs résultats issus de la recherche avec une autre clé secondaire (couleur des voitures) dans un "
+"tableau avec le paramètre table_results mis à \"Yes\" dans le shortcode."
+
+#: ntdb-acp-page.php:363
+msgid "You can also hide the search form with the form_show parameter set to \"No\" in the shortcode, to display your own pre_search links."
+msgstr ""
+"Vous pouvez aussi cacher le formulaire de recherche avec le paramètre form_show mis à \"No\" dans le shortcode, pour afficher vos propres pré-liens "
+"de recherche."
+
+#: ntdb-functions.php:197
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n'avez pas la permission suffisante pour accéder à cette page."
+
+#: ntdb-functions.php:207
+msgid "Add for free nice other"
+msgstr "Obtenir gratuitement d'autres sympathiques"
+
+#: ntdb-functions.php:207
+msgid "Plugins for Wordpress"
+msgstr "Plugins pour Wordpress"
+
+#: ntdb-functions.php:208
+msgid "You like this plugin?"
+msgstr "Vous aimez ce plugin?"
+
+#: ntdb-functions.php:208
+msgid "Offer me a coffee!"
+msgstr "Offrez-moi un café!"
+
+#: ntdb-functions.php:322
+msgid "Tiny DB not found!"
+msgstr "Impossible de trouver la base de données!"
+
+#: ntdb-functions.php:577
+msgid "No result found!"
+msgstr "Aucun résultat !"
+
+#: ntdb-functions.php:579
+msgid "result found."
+msgstr "résultat trouvé."
+
+#: ntdb-functions.php:581
+msgid "results found."
+msgstr "résultats trouvés."
+
+#~ msgid "Next Product Labels & Badges for WooCommerce"
+#~ msgstr "Next Product Labels & Badges for WooCommerce"
+
+#~ msgid "Next Toolbox for WooCommerce"
+#~ msgstr "Next Toolbox for WooCommerce"
+
+#~ msgid "Tiny DB path:"
+#~ msgstr "Chemin de la base de données:"
+
+#~ msgid "Clear filter"
+#~ msgstr "Vider le filtre"
+
+#~ msgid "Filter"
+#~ msgstr "Filtre"
+
+#~ msgid "Status"
+#~ msgstr "Etat des commandes"
+
+#~ msgid "Total greater than"
+#~ msgstr "Total supérieur à"
+
+#~ msgid "Display only orders which total is greater than this amount"
+#~ msgstr "Filtre les commandes dont le total est supérieur"
+
+#~ msgid "Product name"
+#~ msgstr "Nom du produit"
+
+#~ msgid "Product category"
+#~ msgstr "Catégorie du produit"
+
+#~ msgid "Apply filter"
+#~ msgstr "Appliquer le filtre"
+
+#~ msgid "Export CSV"
+#~ msgstr "Export CSV"
+
+#~ msgid "Export HTML"
+#~ msgstr "Export HTML"
+
+#~ msgid "Category"
+#~ msgstr "Catégorie"
+
+#~ msgid "Stats"
+#~ msgstr "Statistiques"
+
+#~ msgid "Orders per year"
+#~ msgstr "Commandes par an"
+
+#~ msgid "Total sales per year"
+#~ msgstr "Total des ventes par an"
+
+#~ msgid "Number of products by category"
+#~ msgstr "Nombre de produits par catégorie"
+
+#~ msgid "Order status"
+#~ msgstr "Etat des commandes"
+
+#~ msgid "Year colors"
+#~ msgstr "Couleurs des années"
+
+#~ msgid "Case sensitive"
+#~ msgstr "Sensibilité min/MAJ"
+
+#~ msgid "Orders"
+#~ msgstr "Commandes"
+
+#~ msgid "Detailed products"
+#~ msgstr "Détail des produits"
+
+#~ msgid "Shows detailed products list with quantity and price for each order"
+#~ msgstr "Affiche la liste détaillée des produits avec quantité et prix pour chaque commande"
+
+#~ msgid "Completed"
+#~ msgstr "Terminée"
+
+#~ msgid "On hold"
+#~ msgstr "En attente"
+
+#~ msgid "Processing"
+#~ msgstr "En cours"
+
+#~ msgid "Pending"
+#~ msgstr "Attente paiement"
+
+#~ msgid "Refunded"
+#~ msgstr "Remboursée"
+
+#~ msgid "Cancelled"
+#~ msgstr "Annulée"
+
+#~ msgid "Failed"
+#~ msgstr "Echouée"
+
+#~ msgid "3D Pie"
+#~ msgstr "Graphique 3D"
+
+#~ msgid "Displays stats pie chart in 3D"
+#~ msgstr "Affiche le graphique des statistiques en 3D"
+
+#~ msgid "Free shipping only"
+#~ msgstr "Envoi gratuit"
+
+#~ msgid "Year"
+#~ msgstr "Année"
+
+#~ msgid "TOTAL"
+#~ msgstr "TOTAL"
+
+#~ msgid "Order Id."
+#~ msgstr "Commande id."
+
+#~ msgid "Total"
+#~ msgstr "Total"
+
+#~ msgid "Product + Shipping"
+#~ msgstr "Produit + Envoi"
+
+#~ msgid "Date"
+#~ msgstr "Date"
+
+#~ msgid "Free"
+#~ msgstr "Gratuit"
+
+#~ msgid "GRAND TOTAL"
+#~ msgstr "GRAND TOTAL"
+
+#~ msgid "Number of orders"
+#~ msgstr "Nombre de commandes"
+
+#~ msgid "Evolution"
+#~ msgstr "Evolution"
+
+#~ msgid "Average number of orders per year:"
+#~ msgstr "Nombre moyen de commandes par an:"
+
+#~ msgid "Total sales"
+#~ msgstr "Total des ventes"
+
+#~ msgid "Average amount per year:"
+#~ msgstr "Montant moyen par an:"
+
+#~ msgid "Total orders"
+#~ msgstr "Total des commandes"
+
+#~ msgid "Media line shown in gray"
+#~ msgstr "Ligne moyenne affichée en gris"
+
+#~ msgid "Orders per month"
+#~ msgstr "Commandes par mois"
+
+#~ msgid "Jan"
+#~ msgstr "Janv."
+
+#~ msgid "Feb"
+#~ msgstr "Févr."
+
+#~ msgid "Mar"
+#~ msgstr "Mars"
+
+#~ msgid "Apr"
+#~ msgstr "Avr."
+
+#~ msgid "May"
+#~ msgstr "Mai"
+
+#~ msgid "Jun"
+#~ msgstr "Juin"
+
+#~ msgid "Jul"
+#~ msgstr "Juil."
+
+#~ msgid "Aug"
+#~ msgstr "Août"
+
+#~ msgid "Sep"
+#~ msgstr "Sept."
+
+#~ msgid "Oct"
+#~ msgstr "Oct."
+
+#~ msgid "Nov"
+#~ msgstr "Nov."
+
+#~ msgid "Dec"
+#~ msgstr "Déc."
+
+#~ msgid "Month"
+#~ msgstr "Mois"
+
+#~ msgid "Total sales per month"
+#~ msgstr "Total des ventes par mois"
+
+#~ msgid "Uncategorized"
+#~ msgstr "Sans catégorie"
+
+#~ msgid "Number of products per category with [top-level category]."
+#~ msgstr "Nombre de produits pas catégorie avec [catégorie mère]."
+
+#~ msgid "Products with several categories will be displayed as many times."
+#~ msgstr "Les produits avec plusieurs catégories seront affichés autant de fois."
+
+#~ msgid "Categories"
+#~ msgstr "Catégories"
+
+#~ msgid "If not, first top-level category found is used..."
+#~ msgstr "Sinon la première catégorie trouvée est utilisée..."
+
+#~ msgid "Years"
+#~ msgstr "Années"
+
+#~ msgid "restored image file(s) to media library"
+#~ msgstr "fichiers image restauré(s) dans la bibliothèque"
+
+#~ msgid "Watermark Text"
+#~ msgstr "Filigrane Texte"
+
+#~ msgid "Watermark Image"
+#~ msgstr "Filigrane image"
+
+#~ msgid "Backup/Restore"
+#~ msgstr "Restauration"
+
+#~ msgid "Watermark text"
+#~ msgstr "Filigrane texte"
+
+#~ msgid "E.g.: &copy; Your name"
+#~ msgstr "Ex.: &copy; Votre nom"
+
+#~ msgid "m/d/Y"
+#~ msgstr "d/m/Y"
+
+#~ msgid "Font"
+#~ msgstr "Police"
+
+#~ msgid "Font size"
+#~ msgstr "Taille de police"
+
+#~ msgid "Font color"
+#~ msgstr "Couleur de police"
+
+#~ msgid "Transparency"
+#~ msgstr "Transparence"
+
+#~ msgid "Set the font transparency"
+#~ msgstr "Définir la transparence"
+
+#~ msgid "From 0 (completely opaque) to 127 (completely transparent)"
+#~ msgstr "De 0 (complétement opaque) à 127 (complétement transparent)"
+
+#~ msgid "Orientation"
+#~ msgstr "Orientation"
+
+#~ msgid "From 0&deg; to 360&deg;"
+#~ msgstr "De 0&deg; à 360&deg;"
+
+#~ msgid "Mosaic"
+#~ msgstr "Mosaïque"
+
+#~ msgid "Repeat the watermark text"
+#~ msgstr "Dupliquer le filigrane texte"
+
+#~ msgid "Mosaic size"
+#~ msgstr "Taille de la mosaïque"
+
+#~ msgid "None"
+#~ msgstr "Aucun"
+
+#~ msgid "Custom"
+#~ msgstr "Personnalisée"
+
+#~ msgid "Custom Mosaic size"
+#~ msgstr "Taille personnalisée"
+
+#~ msgid "Shift watermarks"
+#~ msgstr "Décaler les filigranes"
+
+#~ msgid "Alignment"
+#~ msgstr "Alignement"
+
+#~ msgid "Offset X"
+#~ msgstr "Décalage en X"
+
+#~ msgid "Negative X value relative to right side"
+#~ msgstr "Valeur négative de X relative au côté droit"
+
+#~ msgid "Offset Y"
+#~ msgstr "Décalage en Y"
+
+#~ msgid "Negative Y value relative to bottom side"
+#~ msgstr "Valeur négative de Y relative au côté inférieur"
+
+#~ msgid "Error applying watermark!"
+#~ msgstr "Erreur en apposant le filigrane!"
+
+#~ msgid "Apply text watermark"
+#~ msgstr "Activer le filigrane de type texte"
+
+#~ msgid "Watermark image"
+#~ msgstr "Filigrane image"
+
+#~ msgid "Change Image watermark"
+#~ msgstr "Changer le filigrane image"
+
+#~ msgid "Upload Image watermark"
+#~ msgstr "Téléverser un filigrane image"
+
+#~ msgid "Set the orientation to 0&deg; to enable 'Opacity' and 'Fit to image' options"
+#~ msgstr "Réglez l'orientation à 0&deg; pour activer les options 'Opacité' et 'Ajuster à l'image'"
+
+#~ msgid "Set the opacity (gif & jpg only, with NO orientation)"
+#~ msgstr "Définir l'opacité (seulement pour les GIF/JPEG, sans orientation)"
+
+#~ msgid "From 0% (fully transparent) to 100% (fully opaque)"
+#~ msgstr "De 0% (complétement transparent) à 100% (complétement opaque)"
+
+#~ msgid "Special effects"
+#~ msgstr "Effets spéciaux"
+
+#~ msgid "Greyscale watermark"
+#~ msgstr "Nuances de gris"
+
+#~ msgid "Negative watermark"
+#~ msgstr "Watermark négatif"
+
+#~ msgid "Position"
+#~ msgstr "Position"
+
+#~ msgid "(Use Aligment parameters below)"
+#~ msgstr "(Utilise les paramètres d'alignement)"
+
+#~ msgid "Upper left"
+#~ msgstr "En haut à gauche"
+
+#~ msgid "Upper center"
+#~ msgstr "En haut au centre"
+
+#~ msgid "Upper right"
+#~ msgstr "En haut à droite"
+
+#~ msgid "Middle left"
+#~ msgstr "Au milieu à gauche"
+
+#~ msgid "Middle center"
+#~ msgstr "Au milieu au centre"
+
+#~ msgid "Middle right"
+#~ msgstr "Au milieu à droite"
+
+#~ msgid "Bottom center"
+#~ msgstr "En bas au centre"
+
+#~ msgid "Bottom right"
+#~ msgstr "En bas à droite"
+
+#~ msgid "Fit watermark to image width"
+#~ msgstr "Ajuster le filigrane à la largeur de l'image"
+
+#~ msgid "Do NOT use Offset X but Margin X parameter"
+#~ msgstr "N'utilise PAS le décalage en X mais la marge en X"
+
+#~ msgid "Fit watermark to image height"
+#~ msgstr "Ajuster le filigrane à la hauteur de l'image"
+
+#~ msgid "Do NOT use Offset Y but Margin Y parameter"
+#~ msgstr "N'utilise PAS le décalage en Y mais la marge en Y"
+
+#~ msgid "Keep aspect ratio"
+#~ msgstr "Préserver le ratio"
+
+#~ msgid "(Left and right margins around watermark)"
+#~ msgstr "Marges gauche et droite autour du filigrane)"
+
+#~ msgid "(Top and bottom margins around watermark)"
+#~ msgstr "Marges haute et basse autour du filigrane)"
+
+#~ msgid "Restore"
+#~ msgstr "Restauration"
+
+#~ msgid "Backup"
+#~ msgstr "Sauvegarde"
+
+#~ msgid "Backup images before watermark"
+#~ msgstr "Sauver les images avant filigranage"
+
+#~ msgid "Stored at"
+#~ msgstr "Sauvé dans"
+
+#~ msgid "Restore only current existing images"
+#~ msgstr "Restaurer seulement les images existantes"
+
+#~ msgid "Restore all images from backup directory"
+#~ msgstr "Restaurer toutes les images du répertoire de sauvegarde"
+
+#~ msgid "Watermarking"
+#~ msgstr "Filigranage numérique"
+
+#~ msgid "Watermark automatically images when uploading in the media gallery"
+#~ msgstr "Appliquer automatiquement le(s) filigrane(s) lors du téléversement de nouvelles images"
+
+#~ msgid "Watermark types"
+#~ msgstr "Types de filigranes"
+
+#~ msgid "Select to activate text watermark, image watermark, or both"
+#~ msgstr "Activer le filigrane de type texte, image ou les deux"
+
+#~ msgid "Activate text watermark"
+#~ msgstr "Activer le filigrane de type texte"
+
+#~ msgid "Activate image watermark"
+#~ msgstr "Activer le filigrane de type image"
+
+#~ msgid "Set the image quality - Default value (-1) uses the default IJG quality value (about 75)"
+#~ msgstr "Définir la qualité d'image - Par défaut (-1) utilise la qualité IJG (environ 75)"
+
+#~ msgid "From 0 (worst quality, smaller file) to 100 (best quality, biggest file)"
+#~ msgstr "De 0 (moins bonne qualité, fichier plus petit) à 100 (meilleure qualité, fichier plus grand)"
+
+#~ msgid "Select the image types to be watermarked"
+#~ msgstr "Sélectionner les types d'images à apposer le filigrane"
+
+#~ msgid "Image sizes"
+#~ msgstr "Tailles d'image"
+
+#~ msgid "Select the image sizes to be watermarked"
+#~ msgstr "Sélectionner les tailles d'images à apposer le filigrane"
+
+#~ msgid "Post types"
+#~ msgstr "Type de posts"
+
+#~ msgid "Select the post types to be watermarked"
+#~ msgstr "Sélectionner les types de posts à apposer le filigrane"
+
+#~ msgid "Content protection"
+#~ msgstr "Protection du contenu"
+
+#~ msgid "Copy protection"
+#~ msgstr "Protection contre la copie"
+
+#~ msgid "Disable right click and copy content"
+#~ msgstr "Désactiver le clic droit et la copie de contenu"
+
+#~ msgid "Set Watermarks"
+#~ msgstr "Définir les filigranes"
+
+#~ msgid "Set Watermark Text"
+#~ msgstr "Définir le filigrane texte"
+
+#~ msgid "Set Watermark Image"
+#~ msgstr "Définir le filigrane image"
+
+#~ msgid "Set Backup/Restore options"
+#~ msgstr "Définir les options de sauvegarde/restauration"
+
+#~ msgid "Data have been saved successfully!"
+#~ msgstr "Réglages enregistrés!"
+
+#~ msgid "Sorry, cannot do this..."
+#~ msgstr "Désolé, impossible de réaliser cette action..."
+
+#~ msgid "Both image and text watermarks are disabled!"
+#~ msgstr "Les filigranes de type texte et image sont tous deux désactivés!"
+
+#~ msgid "Cannot keep aspect ratio when both 'Fit' options are selected!"
+#~ msgstr "Impossible de conserver le ratio quand les deux options 'Fit' sont selectionnées!"
+
+#~ msgid "Image format not allowed!"
+#~ msgstr "Format d'image non autorisé!"
+
+#~ msgid "Watermark image format not allowed!"
+#~ msgstr "Format de filigrane non autorisé!"
+
+#~ msgid "Watermak image"
+#~ msgstr "Filigrane image"
+
+#~ msgid "Watermak Text"
+#~ msgstr "Filigrane texte"
+
+#~ msgid "Watermak Image"
+#~ msgstr "Filigrane image"
+
+#~ msgid "none"
+#~ msgstr "Aucun"
